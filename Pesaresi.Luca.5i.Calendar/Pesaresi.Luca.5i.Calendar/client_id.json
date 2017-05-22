@@ -1,0 +1,13 @@
+{
+  "installed": 
+  {
+
+    "client_id": "928820320010-i6sa6jh8sd7pmsm4v389pbelgm34h3ej.apps.googleusercontent.com",
+    "project_id": "shaped-strata-168414",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "cxVSRiUkqvkh34bn_S7RVg2X",
+    "redirect_uris": [ "urn:ietf:wg:oauth:2.0:oob", "http://localhost" ]
+  }
+}
